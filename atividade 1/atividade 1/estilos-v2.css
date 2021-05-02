@@ -1,0 +1,36 @@
+#indexx
+{
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/362ed4af-9ca3-4a62-9cef-461c81490e39/ddzm2lw-9de3fe11-ff77-4af6-8382-a4b493dda4e8.png/v1/fill/w_1280,h_915,q_80,strp/pitou_by_xaguarel_ddzm2lw-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD05MTUiLCJwYXRoIjoiXC9mXC8zNjJlZDRhZi05Y2EzLTRhNjItOWNlZi00NjFjODE0OTBlMzlcL2Rkem0ybHctOWRlM2ZlMTEtZmY3Ny00YWY2LTgzODItYTRiNDkzZGRhNGU4LnBuZyIsIndpZHRoIjoiPD0xMjgwIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.-gym-MeX6MQFTUCTUyQ9H0MYLHgtN_NBLrDxGkIT91U);
+  background-size: all;
+}
+
+P
+{
+  font-family: "Algerian";
+  font-size: 30px;
+  color: Cyan;
+}
+
+a
+{
+  color: DarkMagenta;
+}
+
+
+#agenda
+{
+  background-image: url(https://i.pinimg.com/originals/01/77/8a/01778aee14211cfd2a7835d9317fabed.jpg)
+
+
+}
+
+ table , th
+{
+  border: 5px solid DarkMagenta;
+  color: red;
+}
+
+td {
+  border: 5px solid DarkMagenta;
+  color: DeepPink;
+}

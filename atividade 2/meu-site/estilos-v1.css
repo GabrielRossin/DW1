@@ -1,0 +1,42 @@
+#indexx
+{
+  background-color: black;
+  background-image: url(https://i.pinimg.com/originals/eb/b6/58/ebb65897ff10b4ba83e7a7788de45a28.jpg);
+  background-size: all;
+  background-position: center;
+
+}
+
+#agenda
+{
+  background-color: black;
+  background-image: url(https://i.pinimg.com/originals/6a/8b/50/6a8b50ac0aa0e64f224bcee2f0afbd66.jpg);
+  background-size: all;
+
+
+}
+
+P
+{
+  font-family: "Chiller";
+  font-size: 40px;
+  color: DodgerBlue;
+}
+
+a
+{
+  color: DarkMagenta;
+}
+ table , th
+{
+  border: 5px solid DarkMagenta;
+  color: DarkMagenta;
+}
+
+td {
+  border: 5px solid DarkMagenta;
+  color: blue;
+}
+b {
+  color: red;
+}
