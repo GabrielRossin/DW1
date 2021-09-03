@@ -1,0 +1,17 @@
+body
+{
+  background-image: url(https://img.freepik.com/fotos-gratis/plano-de-fundo-texturizado-preto_24972-764.jpg?size=626&ext=jpg);
+}
+
+.flex-container
+{
+      display: flex;
+}
+
+.flex-item-left
+{
+      background-color: red;
+      padding: 10px;
+      font-size: 30px;
+      flex: 30%;
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Tabela dinâmica</title>
+    <style>
+        td.action a {
+            font-size: smaller;
+            font-family: sans;
+            color: blueviolet;
+        }
+   </style>
+    <script src="tabela.js"></script>
+  </head>
+
+  <body>
+    <h1>Produtos</h1>
+    <table>
+        <tr>
+            <th>Descrição</th>
+            <th>Preço</th>
+            <th></th>
+        </tr>
+
+        <tr id="alho">
+            <td>Alho</td>
+            <td>R$ 11,30</td>
+            <td class="action">
+                <a href="#" onclick="remover('alho')">&#10060; excluir</a>
+            </td>
+        </tr>
+
+        <tr id="batata">
+            <td>Batata</td>
+            <td>R$ 3,50</td>
+            <td class="action">
+                <a href="#" onclick="remover('batata')">&#10060; excluir</a>
+            </td>
+        </tr>
+
+        <tr id="cebola">
+            <td>Cebola</td>
+            <td>R$ 7,25</td>
+            <td class="action">
+                <a href="#" onclick="remover('cebola')">&#10060; excluir</a>
+            </td>
+        </tr>
+    </table>
+
+
+  </body>
+</html>

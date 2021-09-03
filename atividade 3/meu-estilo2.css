@@ -1,0 +1,7 @@
+.flex-item-right
+{
+      background-color: dodgerblue;
+      padding: 10px;
+      font-size: 30px;
+      flex: 70%;
+}
